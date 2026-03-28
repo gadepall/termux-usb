@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {II}Overview}{1}{section.2}%
+\contentsline {section}{\numberline {III}Firmware Compilation Using PlatformIO}{1}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Create a C++ code file}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}Generate .hex file:}{1}{subsection.3.2}%
+\contentsline {section}{\numberline {IV}TCP-UART Transparent Bridge}{1}{section.4}%
+\contentsline {subsection}{\numberline {\mbox {IV-A}}Steps}{1}{subsection.4.1}%
+\contentsline {section}{\numberline {V}Uploading Using AVRDUDE:}{2}{section.5}%
+\contentsline {section}{\numberline {VI}The Timing Issue}{2}{section.6}%
+\contentsline {section}{\numberline {VII}Hardware Assisted Timing Expansion}{2}{section.7}%
+\contentsline {section}{\numberline {VIII}Serial Monitor}{2}{section.8}%
+\contentsline {section}{\numberline {IX}A Step Ahead: Using PlatformIO Only}{3}{section.9}%
+\contentsline {subsection}{\numberline {\mbox {IX-A}}Editing the platformio.ini File}{3}{subsection.9.1}%
+\contentsline {subsection}{\numberline {\mbox {IX-B}}Delay Script:}{3}{subsection.9.2}%
+\contentsline {subsection}{\numberline {\mbox {IX-C}}Uploading the Code:}{3}{subsection.9.3}%
